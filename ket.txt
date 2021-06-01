@@ -1,0 +1,17 @@
+[5/27, 19:56] Moh. Setiawan Modeong: kurikulum nya gmna mas???
+[5/27, 19:56] Moh. Setiawan Modeong: K13?
+[5/27, 19:56] Mas Ghaly Fadillah E-Raport: Iya betul mas, ini sistem K13 terbaru 2018
+
+* untuk yang masih bingung point utama sistem dibalik fiturnya yang banyak yaitu .. *
+
+1. SIPENSER mampu menggabungkan 2 jenis sistem penilaian K13 terbaru dari KEMDIKBUD dan DIREKTORAT JENDERAL PENDIDIKAN ISLAM dalam 1 aplikasi.
+
+2. SIPENSER mampu mengelola nilai mulai dari mentah hingga menjadi nilai akhir eRapor K13 dengan mengikuti ketentuan rumus-rumus dari Buku Panduan Kemdikbud dan Permendikbud secara otomatis, sehingga pihak sekolah yang masih bingung dengan sistem K13 tidak perlu ambil pusing. Sedangkan eRapor milik Kemdikbud masih harus menghitung manual, nilai yang diinput hanya nilai akhir yg sudah dihitung manual dahulu.
+
+3. SIPENSER mampu menggabungkan sistem penilaian untuk semua jenjang sekolah SD, SMP, SMA dan SMK. Kemarin ada yang nanya apakah cocok buat TK ? Setelah saya pelajari tenyata COCOK UNTUK TK JUGA. 
+
+Loh kok bisa ? 
+
+SIPENSER ini memiliki kecerdasan untuk menyesuaikan rumus secara otomatis berdasarkan kondisi penilaian yang telah direncanakan pihak sekolah, SIPENSER mampu mengcustom input field penilaian tak terbatas alias sesuka hati dengan ketepatan akurasi perhitungan 100%, dibuktikan oleh para ahli bidang pendidikan beberapa rekan saya .. ada buktinya .. tidak sembarangan ... 
+
+Selain itu kemampuannya ya banyak .. menjabarkan informasi secara detail dan rinci dengan grafik dan gambar yang mudah dipahami dibandingkan eRapor milik Kemdikbud ...

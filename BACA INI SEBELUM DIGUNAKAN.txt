@@ -1,0 +1,24 @@
+jangan lupa ganti site key dan secret key google recaptcha pada folder
+application/config/recaptcha.php
+
+caranya :
+1. buka https://www.google.com/recaptcha/intro/v3.html
+2. pilih admin console
+3. label terserah isi apa saja
+4. domain isikan localhost atau kalau sudah di hosting isikan nama domain kalian
+5. pilih tantangan saya bukan robot challange (Recaptcha V2)
+6. kemudian save dan kalian akan mendapatkan SITE key dan SECRET key yang baru
+7. copas key tersebut ke dalam file application/config/recaptcha.php
+
+jangan lupa anda sesuaikan pada file Auth.php di application/controller/Auth.php 
+baris 376 sampai 410 silahkan sesuaikan dengan data email hosting anda sendiri ... agar notifikasi OTP dan reset password user berjalan ...
+
+untuk database ada didalam folder database, silahkan diimport 
+
+administrator:
+lanaysps@gmail.com
+maullana
+
+selain admin passwordnya adalah : password 
+ini dapat diganti dengan mereset password pada user .. 
+

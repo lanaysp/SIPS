@@ -1,0 +1,122 @@
+users -> sr_users ???
+users -> sr_catatan
+users -> users_groups
+users -> sr_diklat
+users -> ekstra_siswa
+users -> kehadiran
+users -> kelas
+users -> kelas_guru
+users -> kesehatan_siswa
+users -> mata_pelajaran_guru
+users -> kompetensi_dasar
+users -> log_activity 
+users -> siswa guru
+users -> nilai_keterampilan
+users -> nilai_pengetahuan
+users -> nilai_pengetahuan_utsuas
+users -> nilai_spiritual
+users -> nilai_sosial
+users -> np_deskripsi
+users -> nk_deskripsi
+users -> nsp_deskripsi
+users -> nso_deskripsi
+users -> prestasi
+users -> rencana_bs_spiritual
+users -> rencana_bs_sosial
+users -> rencana_kd_pengetahuan
+users -> rencana_kd_keterampilan
+
+kelas -> kelas guru
+kelas -> kompetensi_dasar
+kelas -> kkm
+kelas -> nilai_keterampilan
+kelas -> nilai_pengetahuan
+kelas -> nilai_pengetahuan_utsuas
+kelas -> nilai_sosial
+kelas -> nilai_spiritual
+kelas -> np_deskripsi
+kelas -> nk_deskripsi
+kelas -> nsp_deskripsi
+kelas -> nso_deskripsi
+kelas -> rencana_bs_spiritual
+kelas -> rencana_bs_sosial
+kelas -> rencana_kd_pengetahuan
+kelas -> rencana_kd_keterampilan
+kelas -> siswa
+kelas -> siswa_guru
+
+tahun_pelajaran -> kehadiran 
+tahun_pelajaran -> ekstra_siswa
+tahun_pelajaran -> kesehatan_siswa
+tahun_pelajaran -> kompetensi_dasar
+tahun_pelajaran -> log_activity // langsung hapus
+tahun_pelajaran -> nilai_keterampilan
+tahun_pelajaran -> nilai_pengetahuan
+tahun_pelajaran -> nilai_pengetahuan_utsuas
+tahun_pelajaran -> nilai_spiritual
+tahun_pelajaran -> nilai_sosial
+tahun_pelajaran -> nk_deskripsi
+tahun_pelajaran -> np_deskripsi
+tahun_pelajaran -> nsp_deskripsi
+tahun_pelajaran -> nso_deskripsi
+tahun_pelajaran -> prestasi
+tahun_pelajaran -> profile
+tahun_pelajaran -> rencana bs sosial
+tahun_pelajaran -> rencana bs spiritual
+tahun_pelajaran -> rencana kd pengetahuan
+tahun_pelajaran -> rencana kd keterampilan
+tahun_pelajaran -> siswa guru
+
+siswa -> siswa_guru ???
+siswa -> catatan 
+siswa -> ekstra siswa
+siswa -> kehadiran
+siswa -> kesehatan_siswa
+siswa -> nilai_keterampilan
+siswa -> nilai_pengetahuan
+siswa -> nilai_pengetahuan_utsuas
+siswa -> nilai_sosial
+siswa -> nilai_spiritual
+siswa -> np_deskripsi
+siswa -> nk_deskripsi
+siswa -> nso_deskripsi
+siswa -> nsp_deskripsi
+siswa -> prestasi
+
+kkm -> interval predikat ???
+kkm -> mata pelajaran
+
+butir_sikap ----> rencana_bs_sosial ??
+butir_sikap ----> rencana_bs_spiritual
+butir_sikap ----> nilai_spiritual
+butir_sikap ----> nilai_sosial
+kesehatan -> kesehatan_siswa ??
+ekstra -> ekstra_siswa ??
+
+mata_pelajaran -> mata_pelajaran_guru
+mata_pelajaran -> kkm 
+mata_pelajaran -> kompetensi_dasar
+mata_pelajaran -> rencana kd pengetahuan
+mata_pelajaran -> rencana kd keterampilan 
+
+ada nk des np des, nilai peng + uts uas, nilai ket, 
+
+======================================================
+
+kompetensi_dasar -> nilai_pengetahuan
+kompetensi_dasar -> nilai_keterampilan
+
+=============================================================
+berdiri sendiri :
+login_attemps
+log_activity
+web_config
+sr_profile
+
+tidak ada pengelolaan data :
+provinsi -> users
+provinsi -> siswa
+kota -> users
+kota -> siswa
+kecamatan -> profile
+users_groups -> groups  
